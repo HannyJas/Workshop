@@ -1,0 +1,63 @@
+
+:root {
+    --primary: black;
+}
+
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+div.Vivo {
+    width: 10%;
+    margin: 1rem;
+    padding: 0.5rem 1rem 1rem;
+    align-items: center;
+    img {
+        width: 100%;
+    }
+}
+
+div.caurosel-2,img {
+    display: flex;
+    width: 10%;
+    margin: 1rem;
+    padding: 0.5rem 1rem 1rem;
+    align-items: center;
+    img {
+        width: 100%;
+    }
+}
+
+nav.NETNET {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    line-height: 46px;
+    font-size: xx-large;
+}
+
+
+a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    line-height: 50px;
+}
+
+
+.button {
+    cursor: pointer;
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+}
+
+
